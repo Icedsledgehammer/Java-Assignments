@@ -1,4 +1,4 @@
-Student Management System
+Student Management System:
 This Java program demonstrates a menu-driven Student Management System where you can perform various operations on student records using classes, arrays of objects, and ArrayList.
 
 Assignment Description
